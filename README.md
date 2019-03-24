@@ -1,2 +1,2 @@
-# filux
+# Filux
 Self hosted file manager
